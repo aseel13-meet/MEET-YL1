@@ -1,0 +1,11 @@
+def palindrome(variable_name = str("Enter a word")):
+
+	if variable_name == palindrome 
+		return True
+	else	
+		return False
+
+if __name__ == '__main__' :
+	variable_number = raw_input("write a palindorme")
+	palindrome (variable_number)
+
